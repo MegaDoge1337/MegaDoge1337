@@ -1,1 +1,1 @@
-<a href="https://www.buymeacoffee.com/megadoge" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" height="50" ></a>
+
